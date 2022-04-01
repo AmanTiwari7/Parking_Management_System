@@ -1,6 +1,6 @@
 from PyQt5.QtWidgets import QWidget,QVBoxLayout,QPushButton,QLabel,QLineEdit,QApplication
 import sys
-from DataBaseOperation import DBOperation
+from DataBaseOperations import DBOperation
 from HomeWindow import HomeScreen
 
 class LoginScreen(QWidget):

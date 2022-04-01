@@ -1,7 +1,7 @@
 from PyQt5.QtWidgets import QWidget,QPushButton,QVBoxLayout,QLabel,QLineEdit
 from LoginWindow import LoginScreen
 import json
-from DataBaseOperation import DBOperation
+from DataBaseOperations import DBOperation
 
 class InstallWindow(QWidget):
     def __init__(self):

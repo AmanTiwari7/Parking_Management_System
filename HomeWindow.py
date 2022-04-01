@@ -1,5 +1,5 @@
 from PyQt5.QtWidgets import QWidget,QMainWindow,QPushButton,QLineEdit,QLabel,QVBoxLayout,QHBoxLayout,QFrame,QGridLayout,QComboBox,QTableWidget,QTableWidgetItem
-from DataBaseOperation import DBOperation
+from DataBaseOperations import DBOperation
 from PyQt5.QtWidgets import QHeaderView,qApp
 import PyQt5.QtGui
 
